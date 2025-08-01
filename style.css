@@ -1,0 +1,24 @@
+body { 
+    background-color: #f5f5f5;
+}
+.Comida {
+    color: brown ;
+}
+h1 {
+    text-align: center;
+}
+.Prato { 
+    color: brown;
+}
+
+ul{
+    font-size: 18px;
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    hover: text-decoration: ; blue;
+
+}
